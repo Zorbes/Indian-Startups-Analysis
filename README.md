@@ -1,13 +1,13 @@
 # Indian-Startups-Analysis
 
-Indian Start-up Analysis
 
-Business Understanding
 
-Problem Statement
+### Business Understanding
+
+### Problem Statement
 The goal is to analyze the funding patterns in the Indian start-up ecosystem from 2018 to 2021. This analysis aims to identify key trends, top investors, prominent sectors, and geographical hotspots to guide strategic decisions for venturing into the Indian start-up market.
 
-Goal
+### Goal
 Overall Goal: To provide insights into the funding landscape of Indian start-ups over the four years, enabling informed decisions for new investments and business strategies.
 Specific Goals:
     -Understand the total funding received each year and identify trends.
@@ -29,13 +29,13 @@ Location: The geographical location (city, state) of the start-up.
 Year: The year in which the funding was received.
 
 
-Hypothesis (Null and Alternate)
+### Hypothesis (Null and Alternate)
 Hypothesis 1:
 Null Hypothesis (H0): Startups with multiple founders tend to raise more money than those with a single founder.
 Alternate Hypothesis (H1): Startups with multiple founders do not tend to raise more money than those with a single founder.
 
 
-Analytical Questions
+### Analytical Questions
 
 What is the average funding amount for startups based in different cities?
 
@@ -81,4 +81,4 @@ Based on the findings, what are the strategic recommendations for venturing into
 Once the data files are provided, we can proceed with the analysis to answer these questions and validate the hypotheses
 
 
-Data understanding
+### Data understanding
