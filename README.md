@@ -31,15 +31,28 @@ Year: The year in which the funding was received.
 
 Hypothesis (Null and Alternate)
 Hypothesis 1:
-Null Hypothesis (H0): There is no significant change in the total funding amount received by Indian start-ups from 2018 to 2021.
-Alternate Hypothesis (H1): There is a significant change in the total funding amount received by Indian start-ups from 2018 to 2021.
-
-Hypothesis 2:
-Null Hypothesis (H0): The distribution of funding across different sectors remains consistent from 2018 to 2021.
-Alternate Hypothesis (H1): The distribution of funding across different sectors changes significantly from 2018 to 2021.
+Null Hypothesis (H0): Startups with multiple founders tend to raise more money than those with a single founder.
+Alternate Hypothesis (H1): Startups with multiple founders do not tend to raise more money than those with a single founder.
 
 
 Analytical Questions
+
+What is the average funding amount for startups based in different cities?
+
+How does the total investment compare across different sectors? Which sectors have received the most and least funding?
+
+What is the distribution of investment amounts across different stages of funding? How does the funding amount differ between Seed, Pre-series, Series A, Series B etc..?
+
+What are the common investors in different sectors and stages?
+Are there any investors that frequently appear across multiple companies or sectors?
+
+How many companies are in each stage of funding?
+What is the proportion of companies in Seed, Pre-series, Series A, Series B, etc.?
+
+How does the age of the company (years since founding) relate to the stage of funding?
+Are newer companies more likely to be in the Seed or Pre-series stage?
+
+
 Funding Trends:
 
 What is the total amount of funding received by start-ups each year from 2018 to 2021?
@@ -65,7 +78,7 @@ Overall Insights and Recommendations:
 
 What are the key insights from the analysis regarding the Indian start-up ecosystem?
 Based on the findings, what are the strategic recommendations for venturing into the Indian start-up market?
-Once the data files are provided, we can proceed with the analysis to answer these questions and validate the hypotheses.
+Once the data files are provided, we can proceed with the analysis to answer these questions and validate the hypotheses
 
 
 Data understanding
